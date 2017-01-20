@@ -15,7 +15,7 @@ Instructions:
 Assuming all fields are correct and the "bot" has the prileges to enter the specified universe & world, the "bot"
 should show up in-world and begin logging all in-world chat it "hears" to its status window
 
-5. Closing the window with the top right "X" will exit cleanly.
+6. Closing the window with the top right "X" will exit cleanly.
 
 #ce
 
