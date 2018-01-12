@@ -1,7 +1,7 @@
 # AWSDK-For-AutoIt
 A wrapper for the Activeworlds SDK that allows creation of bots using the AutoIt scripting language.
 
-For usage instructions, visit the wiki: https://locodarwin.com/aw/doku.php?id=awsdk:sdkmain
+For usage instructions, visit the wiki: https://locodarwin.com/wiki/doku.php?id=awsdk:sdkmain
 
 At a minimum, to create Activeworlds "bots" using AutoIt you'll need to download these files:
 
